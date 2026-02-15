@@ -4,6 +4,6 @@ Welcome to my F1 2013 repository!
 
 Here you'll find my setups for various tracks and cars on the [F1 2013](https://en.wikipedia.org/F1_2013_(video_game)) game.
 
-F1 2013 is a video game developed by Codemasters based on the 2013 Formula One World Championship. It uses the EGO Engine.[4] F1 2013 was released in Europe in 2013 on PlayStation 3, Microsoft Windows, and Xbox 360 on October 4. A digital version was released worldwide on the Steam Store, as well as on 8 October for the PlayStation Store and 15 October for Xbox Games on Demand, with a further release on Mac OS X by Feral Interactive in March 2014.
+F1 2013 is a video game developed by Codemasters based on the 2013 Formula One World Championship. It uses the EGO Engine. F1 2013 was released in Europe in 2013 on PlayStation 3, Microsoft Windows, and Xbox 360 on October 4. A digital version was released worldwide on the Steam Store, as well as on 8 October for the PlayStation Store and 15 October for Xbox Games on Demand, with a further release on Mac OS X by Feral Interactive in March 2014.
 
 The game was taken down from the stores due to probable license expiration in 2017, whilst the online servers were shut down on 21 March 2024.
